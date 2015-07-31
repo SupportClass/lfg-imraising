@@ -1,0 +1,6 @@
+{
+  "name": "lfg-imraising",
+  "dependencies": {
+    "imraising-tracker": "^1.0.0"
+  }
+}
